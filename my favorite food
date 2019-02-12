@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <meta charset = "UTF-8">
+  <title> My favorite food </title>
+  </head>
+  <body>
+<h1> Pizza </h1>
+<p>
+<img src="pics/pizza1/jpg" alt="my favorite food" width=550>
+</p>
+
+<p> When I have been the USA, I loved the Pizza, it is really good.</p>
+
+</body>
+</html>
